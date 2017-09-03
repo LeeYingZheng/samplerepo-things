@@ -5,3 +5,5 @@ oval
 rectangle
 square
 rhombus
+pewpewpew
+krankenschwester
